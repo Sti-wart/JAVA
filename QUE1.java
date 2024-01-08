@@ -1,5 +1,7 @@
 // GENERAL INPUT/OUTPUT PROGRAM
 
+package JAVA;
+
 import java.util.*;
 
 public class QUE1{
